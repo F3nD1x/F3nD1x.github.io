@@ -5,6 +5,9 @@ date: 2026-10-03 12:11:00 +0000
 categories: [writeups, web]
 tags: [ctf, writeup, graphql, web, introspection]
 author: josias
+image:
+  path: /assets/img/posts/used-goods-of-tomorrow.png
+  alt: "Used Goods of Tomorrow : exploitation GraphQL"
 ---
 
 Ce challenge Web utilise une API GraphQL. L’exploitation combine l’introspection laissée active, une mutation de debug oubliée (`vendorTerminalSync`) et un code promotionnel interne donnant 100 % de réduction sur l’objet ciblé.

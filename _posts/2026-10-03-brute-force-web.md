@@ -5,6 +5,9 @@ date: 2026-10-03 12:18:00 +0000
 categories: [writeups, web]
 tags: [ctf, writeup, web, authentication]
 author: josias
+image:
+  path: /assets/img/posts/brute-force-web.png
+  alt: "Brute force dans les applications Web"
 ---
 
 Analyse pédagogique d’une vulnérabilité de brute force dans une application Web et des protections nécessaires côté serveur.

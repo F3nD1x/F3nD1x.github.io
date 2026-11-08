@@ -5,6 +5,9 @@ date: 2026-10-03 12:33:00 +0000
 categories: [notes, web]
 tags: [web, cybersecurity, beginner]
 author: josias
+image:
+  path: /assets/img/posts/introduction-securite-web.png
+  alt: "Introduction à la sécurité Web"
 ---
 
 Introduction aux concepts fondamentaux de la sécurité Web et aux principales familles de vulnérabilités.

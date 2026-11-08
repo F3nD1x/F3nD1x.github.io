@@ -5,6 +5,9 @@ date: 2026-10-03 12:29:00 +0000
 categories: [notes, cybersecurity]
 tags: [cybersecurity, information-security]
 author: josias
+image:
+  path: /assets/img/posts/information-security-structure.png
+  alt: "Structure de la sécurité de l'information"
 ---
 
 Notes sur les principes et la structure de la sécurité de l’information.

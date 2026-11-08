@@ -5,6 +5,9 @@ date: 2026-10-03 16:41:00 +0000
 categories: [writeups, pwn]
 tags: [ctf, pwn, buffer-overflow, ret2win, pwntools]
 author: josias
+image:
+  path: /assets/img/posts/kuiper-belt-relay-core.png
+  alt: "Kuiper Belt Relay Core : ret2win"
 ---
 
 ## Présentation

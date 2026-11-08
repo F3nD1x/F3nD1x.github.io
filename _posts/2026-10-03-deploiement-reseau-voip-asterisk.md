@@ -6,8 +6,8 @@ categories: [projects, networking]
 tags: [voip, asterisk, freepbx, networking, linux]
 author: josias
 image:
-  path: /assets/img/profile.jpeg
-  alt: "Projet de déploiement réseau VoIP avec Asterisk"
+  path: /assets/img/posts/deploiement-reseau-voip-asterisk.png
+  alt: "Déploiement d'un réseau VoIP avec Asterisk"
 ---
 
 ## Présentation

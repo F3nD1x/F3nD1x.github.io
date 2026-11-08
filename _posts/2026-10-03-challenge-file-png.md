@@ -5,6 +5,9 @@ date: 2026-10-03 12:31:00 +0000
 categories: [writeups, forensics]
 tags: [ctf, writeup, png, forensics]
 author: josias
+image:
+  path: /assets/img/posts/challenge-file-png.png
+  alt: "Challenge file.png"
 ---
 
 Analyse d’un fichier PNG dans le cadre d’un challenge CTF.

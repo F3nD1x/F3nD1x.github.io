@@ -5,6 +5,9 @@ date: 2026-10-03 12:23:00 +0000
 categories: [writeups, misc]
 tags: [ctf, writeup]
 author: josias
+image:
+  path: /assets/img/posts/iloveuforever.png
+  alt: "iloveuforever"
 ---
 
 Write-up du challenge **iloveuforever**.

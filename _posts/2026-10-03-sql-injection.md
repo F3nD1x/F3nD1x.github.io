@@ -5,6 +5,9 @@ date: 2026-10-03 12:27:00 +0000
 categories: [notes, web]
 tags: [sqli, sql, web, cybersecurity]
 author: josias
+image:
+  path: /assets/img/posts/sql-injection.png
+  alt: "SQL Injection"
 ---
 
 Introduction aux injections SQL, à leur impact et aux protections essentielles comme les requêtes préparées et la validation des entrées.

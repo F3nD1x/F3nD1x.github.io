@@ -5,6 +5,9 @@ date: 2026-10-03 12:17:00 +0000
 categories: [writeups, steganography]
 tags: [ctf, writeup, root-me, wav, audacity]
 author: josias
+image:
+  path: /assets/img/posts/rootme-wav.png
+  alt: "Root-Me : analyse spectrale d'un fichier WAV"
 ---
 
 Write-up du challenge Root-Me de stéganographie sonore basé sur l’analyse spectrale d’un fichier WAV.

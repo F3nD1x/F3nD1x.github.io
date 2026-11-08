@@ -5,6 +5,9 @@ date: 2026-10-03 12:28:00 +0000
 categories: [notes, web]
 tags: [authentication, web, cybersecurity]
 author: josias
+image:
+  path: /assets/img/posts/broken-authentication.png
+  alt: "Broken Authentication"
 ---
 
 Étude des défauts d’authentification et des pratiques à appliquer pour sécuriser les sessions, les mots de passe et les contrôles d’accès.

@@ -5,6 +5,9 @@ date: 2026-10-03 12:25:00 +0000
 categories: [notes, linux]
 tags: [linux, cybersecurity, command-line]
 author: josias
+image:
+  path: /assets/img/posts/structure-linux.png
+  alt: "Structure sur Linux"
 ---
 
 Notes pratiques sur la structure d’un système Linux, les répertoires importants et les réflexes utiles en administration et en sécurité.

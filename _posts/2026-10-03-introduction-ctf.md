@@ -5,6 +5,9 @@ date: 2026-10-03 12:32:00 +0000
 categories: [notes, cybersecurity]
 tags: [ctf, cybersecurity, beginner]
 author: josias
+image:
+  path: /assets/img/posts/introduction-ctf.png
+  alt: "Introduction au CTF"
 ---
 
 Introduction aux compétitions **Capture The Flag**, à leurs catégories et aux premières méthodes pour progresser.

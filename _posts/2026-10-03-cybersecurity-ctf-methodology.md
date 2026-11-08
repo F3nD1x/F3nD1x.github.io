@@ -5,6 +5,9 @@ date: 2026-10-03 11:00:00 +0000
 categories: [writeups, cybersecurity]
 tags: [ctf, writeup, cybersecurity, linux, networking]
 author: josias
+image:
+  path: /assets/img/posts/cybersecurity-ctf-methodology.png
+  alt: "Ma méthodologie pour les write-ups CTF"
 ---
 
 Un bon write-up doit permettre de comprendre le raisonnement, pas seulement de recopier une commande.

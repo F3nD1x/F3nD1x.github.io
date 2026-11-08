@@ -5,6 +5,9 @@ date: 2026-10-03 10:00:00 +0000
 categories: [writeups, cybersecurity]
 tags: [ctf, writeup, steganography, togo]
 author: josias
+image:
+  path: /assets/img/posts/muraille-d-agbogbo-ctf-writeup.png
+  alt: "Muraille d'Agbogbo CTF : write-up"
 ---
 
 ## Introduction

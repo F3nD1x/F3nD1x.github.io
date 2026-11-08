@@ -5,6 +5,9 @@ date: 2026-10-03 12:20:00 +0000
 categories: [writeups, web]
 tags: [ctf, writeup, lfi, web]
 author: josias
+image:
+  path: /assets/img/posts/file-inclusion.png
+  alt: "Inclusion de fichiers"
 ---
 
 Étude d’une vulnérabilité d’inclusion de fichiers et des contrôles de sécurité à appliquer pour empêcher la lecture de ressources non autorisées.

@@ -5,6 +5,9 @@ date: 2026-10-03 12:19:00 +0000
 categories: [writeups, web]
 tags: [burp-suite, web, cybersecurity]
 author: josias
+image:
+  path: /assets/img/posts/burp-suite.png
+  alt: "Burp Suite : prise en main pour les tests Web"
 ---
 
 Notes et méthode de travail avec Burp Suite pour intercepter, observer et rejouer des requêtes HTTP dans un environnement de test autorisé.

@@ -5,6 +5,9 @@ date: 2026-10-03 16:40:00 +0000
 categories: [writeups, cybersecurity]
 tags: [ctf, css-ctf, cryptography, web, forensics, graphs]
 author: josias
+image:
+  path: /assets/img/posts/css-ctf-2026-return-of-nexus.png
+  alt: "CSS CTF 2026 : Return of Nexus"
 ---
 
 ## Présentation

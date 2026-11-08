@@ -5,6 +5,9 @@ date: 2026-10-03 12:22:00 +0000
 categories: [writeups, cybersecurity]
 tags: [ctf, writeup, cybersecurity]
 author: josias
+image:
+  path: /assets/img/posts/ctf-cybersec.png
+  alt: "11 write-ups de CYBERSEC"
 ---
 
 Collection de onze write-ups et notes de résolution autour de challenges de cybersécurité.

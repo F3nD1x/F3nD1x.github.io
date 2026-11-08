@@ -5,6 +5,9 @@ date: 2026-10-03 16:42:00 +0000
 categories: [writeups, forensics]
 tags: [ctf, writeup, forensics, linux, ghostscript]
 author: josias
+image:
+  path: /assets/img/posts/ghost-in-the-thread.png
+  alt: "Ghost in the Thread : investigation forensics"
 ---
 
 ## Présentation

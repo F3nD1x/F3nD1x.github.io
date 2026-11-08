@@ -5,6 +5,9 @@ date: 2026-10-03 12:16:00 +0000
 categories: [writeups, cybersecurity]
 tags: [ctf, writeup, esig, togo]
 author: josias
+image:
+  path: /assets/img/posts/esig-tech-arena.png
+  alt: "ESIG Tech Arena CTF"
 ---
 
 Compte rendu de participation au **ESIG Tech Arena CTF**, avec les méthodes et challenges étudiés pendant la compétition.

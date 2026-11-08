@@ -5,6 +5,9 @@ date: 2026-10-03 12:00:00 +0000
 categories: [writeups, cybersecurity]
 tags: [ctf, writeup, steganography, audacity, linux]
 author: josias
+image:
+  path: /assets/img/posts/nutata-wav-steganographie-audio.png
+  alt: "Nutata.wav : stéganographie sonore"
 ---
 
 ## Introduction
