@@ -47,7 +47,7 @@ Je publie également des **write-ups CTF** pour documenter mes méthodes d'analy
 
 ## Me contacter
 
-- GitHub : [koudadzejosias-wq](https://github.com/koudadzejosias-wq)
+- GitHub : [F3nD1x](https://github.com/F3nD1x)
 - LinkedIn : [Josias Koudadze](https://www.linkedin.com/in/koudadze-josias/)
 - Discord :[h4ck3urf3nd1]
 - Localisation : Lomé, Togo

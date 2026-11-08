@@ -6,11 +6,11 @@ tagline: "Cybersécurité, réseaux et développement Python"
 description: >-
   Blog et portfolio personnel de Koudadze Kodjogan Josias, étudiant en cybersécurité,
   administrateur réseau et développeur Python au Togo.
-url: "https://koudadzejosias-wq.github.io"
+url: "https://f3nd1x.github.io"
 baseurl: ""
 
 github:
-  username: koudadzejosias-wq
+  username: F3nD1x
 
 theme: jekyll-theme-chirpy
 
@@ -21,7 +21,7 @@ social:
   name: "KOUDADZE Kodjogan Josias"
   email: ""
   links:
-    - "https://github.com/koudadzejosias-wq"
+    - "https://github.com/F3nD1x"
     - "https://www.linkedin.com/in/koudadze-josias/"
 
 # Theme behavior

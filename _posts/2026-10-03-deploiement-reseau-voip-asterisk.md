@@ -27,6 +27,6 @@ L'objectif est de comprendre la mise en place d'un réseau VoIP fonctionnel : in
 
 ## Dépôt du projet
 
-[Consulter le dépôt GitHub `deploiement-reseau-voip-asterisk`](https://github.com/koudadzejosias-wq/deploiement-reseau-voip-asterisk)
+[Consulter le dépôt GitHub `deploiement-reseau-voip-asterisk`](https://github.com/F3nD1x/deploiement-reseau-voip-asterisk)
 
 Ce projet complète mes travaux sur l'administration Linux, les réseaux et les infrastructures de communication.

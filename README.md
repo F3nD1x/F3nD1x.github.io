@@ -4,7 +4,7 @@ Site personnel de Koudadze Kodjogan Josias, construit avec Jekyll et le thème [
 
 ## Déploiement sur GitHub Pages
 
-1. Créer un dépôt public nommé `koudadzejosias-wq.github.io` sur GitHub.
+1. Créer un dépôt public nommé `F3nD1x.github.io` sur GitHub.
 2. Placer ces fichiers à la racine du dépôt et pousser la branche `main` :
 
    ```bash
@@ -12,14 +12,14 @@ Site personnel de Koudadze Kodjogan Josias, construit avec Jekyll et le thème [
    git add .
    git commit -m "Initialise le portfolio Chirpy"
    git branch -M main
-   git remote add origin https://github.com/koudadzejosias-wq/koudadzejosias-wq.github.io.git
+   git remote add origin https://github.com/F3nD1x/F3nD1x.github.io.git
    git push -u origin main
    ```
 
 3. Dans GitHub, ouvrir **Settings > Pages**.
 4. Dans **Build and deployment**, choisir **GitHub Actions** comme source.
 5. Vérifier l'exécution de l'action **Deploy Jekyll site to GitHub Pages** dans l'onglet **Actions**.
-6. Le site sera disponible à l'adresse `https://koudadzejosias-wq.github.io` après le premier déploiement.
+6. Le site sera disponible à l'adresse `https://f3nd1x.github.io` après le premier déploiement.
 
 Le workflow `.github/workflows/pages-deploy.yml` reconstruit automatiquement le site à chaque push sur `main`. Il utilise le mode Pages officiel avec un artefact `_site`.
 
