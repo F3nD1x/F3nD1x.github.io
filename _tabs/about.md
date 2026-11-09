@@ -38,6 +38,7 @@ Ce site rassemble mes writeups CTF, mes projets déployés, mes certifications e
 - **Linux Fundamentals** — Hack The Box (mai 2026).
 - **Passeport Numérique** — programme 10.000 Codeurs.
 - **1ère place** à la 3ème édition de l'IPNET Cyberbattle (août 2026), avec l'équipe Chibrax2000.
+- **Top 15** au battleCTF, phase qualificative : 15ème sur 552, Top 2 % (novembre 2026).
 - **3ème place** à l'ESIG Tech Arena, catégorie CTF (septembre 2026).
 - **3ème place** au TCC Hack&Defend CTF (juillet 2026), avec l'équipe Chibrax2000.
 - **2ème place** aux MLH Hack Days (novembre 2024), avec le projet TAVNO.

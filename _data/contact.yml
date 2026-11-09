@@ -1,0 +1,11 @@
+# Icônes de contact en bas de la barre latérale (thème Chirpy).
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/kodjogan-josias-koudadze-80916b439/"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
