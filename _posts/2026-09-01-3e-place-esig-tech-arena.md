@@ -8,8 +8,8 @@ author: josias
 pin: true
 description: "3ème place dans la catégorie CTF de l'ESIG Tech Arena, organisée par ESIG TechSphere."
 image:
-  path: /assets/img/posts/3e-place-esig-tech-arena.png
-  alt: "3ème place à l'ESIG Tech Arena"
+  path: /assets/img/posts/3e-place-esig-tech-arena-photo.jpg
+  alt: "Attestation et badge de participation à l'ESIG Tech Arena"
 ---
 
 **3ème place** dans la catégorie **CTF** de l'**ESIG Tech Arena**.
@@ -20,6 +20,3 @@ image:
 - **Associé à :** IPNET Institute of Technology
 
 Mon write-up de la compétition : [ESIG Tech Arena CTF]({% post_url 2026-10-03-esig-tech-arena %}).
-
-![Attestation et badge de participation](/assets/img/achievements/esig-tech-arena-attestation-badge.png)
-_Attestation et badge de participation_
