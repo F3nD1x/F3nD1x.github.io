@@ -9,11 +9,23 @@ order: 4
 
 Mes victoires, certifications, formations et engagements dans le domaine de la cybersécurité.
 
-## Compétitions
+## Compétitions et prix
 
-### 1ère place à la 3ème édition de la Cyberbattle
+### TOP 1 : vainqueur de l'IPNET Cyberbattle
 
-1ère place obtenue en équipe **Chibrax2000** lors de la troisième édition de cette compétition de cybersécurité (août 2026).
+1ère place obtenue en équipe **Chibrax2000** lors de la 3ème édition du CTF de l'**IPNET CYBERSEC CLUB** (août 2026). [Voir la distinction]({% post_url 2026-08-01-top-1-ipnet-cyberbattle %})
+
+### 3ème place à l'ESIG Tech Arena
+
+3ème place dans la catégorie CTF de l'ESIG Tech Arena, organisée par **ESIG TechSphere** (septembre 2026). [Voir la distinction]({% post_url 2026-09-01-3e-place-esig-tech-arena %})
+
+### 3ème place au TCC Hack&Defend CTF
+
+3ème place avec la Team **Chibrax2000** au CTF du **Tech Campus Club IPNET** (juillet 2026). [Voir la distinction]({% post_url 2026-07-01-3e-place-tcc-hack-and-defend %})
+
+### 2ème place aux MLH Hack Days
+
+2ème place avec notre projet **TAVNO**, au hackathon organisé par le **TCC at Lomé Business School** (novembre 2024). [Voir la distinction]({% post_url 2024-11-01-2e-place-mlh-hack-days %})
 
 ## Certifications
 

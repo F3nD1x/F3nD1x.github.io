@@ -37,7 +37,10 @@ Ce site rassemble mes writeups CTF, mes projets déployés, mes certifications e
 - **Introduction to Critical Infrastructure Protection (ICIP)** — OPSWAT Academy (mai 2026).
 - **Linux Fundamentals** — Hack The Box (mai 2026).
 - **Passeport Numérique** — programme 10.000 Codeurs.
-- **1ère place** à la 3ème édition de la Cyberbattle (août 2026), avec l'équipe Chibrax2000.
+- **1ère place** à la 3ème édition de l'IPNET Cyberbattle (août 2026), avec l'équipe Chibrax2000.
+- **3ème place** à l'ESIG Tech Arena, catégorie CTF (septembre 2026).
+- **3ème place** au TCC Hack&Defend CTF (juillet 2026), avec l'équipe Chibrax2000.
+- **2ème place** aux MLH Hack Days (novembre 2024), avec le projet TAVNO.
 
 ## Projets et partage
 
@@ -48,7 +51,7 @@ Je publie également des **write-ups CTF** pour documenter mes méthodes d'analy
 ## Me contacter
 
 - GitHub : [F3nD1x](https://github.com/F3nD1x)
-- LinkedIn : [Josias Koudadze](https://www.linkedin.com/in/koudadze-josias/)
+- LinkedIn : [Josias Koudadze](https://www.linkedin.com/in/kodjogan-josias-koudadze-80916b439/)
 - Discord :[h4ck3urf3nd1]
 - Localisation : Lomé, Togo
 
