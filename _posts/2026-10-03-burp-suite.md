@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/burp-suite.png
   alt: "Burp Suite : prise en main pour les tests Web"
+hidden: true
 ---
 
 Notes et méthode de travail avec Burp Suite pour intercepter, observer et rejouer des requêtes HTTP dans un environnement de test autorisé.

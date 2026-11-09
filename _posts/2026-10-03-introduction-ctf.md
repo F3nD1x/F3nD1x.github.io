@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/introduction-ctf.png
   alt: "Introduction au CTF"
+hidden: true
 ---
 
 Introduction aux compétitions **Capture The Flag**, à leurs catégories et aux premières méthodes pour progresser.

@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/kuiper-belt-relay-core.png
   alt: "Kuiper Belt Relay Core : ret2win"
+hidden: true
 ---
 
 ## Présentation

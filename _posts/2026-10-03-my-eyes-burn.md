@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/my-eyes-burn.png
   alt: "My eyes burn : chaîne de touches mortes"
+hidden: true
 ---
 
 L’analyse du fichier `boardwriter.klc` repose sur le décodage UTF-16 et le suivi d’une chaîne de touches mortes. Chaque résultat devient la touche morte suivante jusqu’au caractère Unicode final représentant le soleil.

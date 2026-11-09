@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/muraille-agbogbo-notion.png
   alt: "Muraille d'Agbogbo"
+hidden: true
 ---
 
 Write-up du challenge **Muraille d’Agbogbo**, conservé depuis la page Notion originale.

@@ -24,6 +24,12 @@ Cette page regroupe mes write-ups du **CSS CTF 2026 — Return of Nexus**. Chaqu
 | A Star Trail 2 | Misc / Graphes | Flag complet dans la page Notion |
 | Welcome to Star City | Web | `CSSCTF{we_BU1LT_this_city_from_r0ck_and_R011}` |
 | Echoes of the Relay | Forensics | `CSSCTF{d3l3t3d_d03snt_m34n_g0n3}` |
+| Kuiper Belt Relay Core | Pwn | `CSSCTF{s1gn4l_r3c0v3d_fr0m_th3_v01d}` |
+
+## Write-ups détaillés sur ce site
+
+- [Chrono II expliqué simplement]({% post_url 2026-10-03-chrono-ii %}) : clé cyclique et décalage temporel.
+- [Kuiper Belt Relay Core : ret2win]({% post_url 2026-10-03-kuiper-belt-relay-core %}) : stack buffer overflow vers `win()`.
 
 Les pages détaillées des challenges sont disponibles dans la collection Notion originale.
 

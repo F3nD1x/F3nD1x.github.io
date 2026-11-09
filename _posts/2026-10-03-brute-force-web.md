@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/brute-force-web.png
   alt: "Brute force dans les applications Web"
+hidden: true
 ---
 
 Analyse pédagogique d’une vulnérabilité de brute force dans une application Web et des protections nécessaires côté serveur.

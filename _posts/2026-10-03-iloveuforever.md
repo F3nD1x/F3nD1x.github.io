@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/iloveuforever.png
   alt: "iloveuforever"
+hidden: true
 ---
 
 Write-up du challenge **iloveuforever**.

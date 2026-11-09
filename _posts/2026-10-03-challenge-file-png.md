@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/challenge-file-png.png
   alt: "Challenge file.png"
+hidden: true
 ---
 
 Analyse d’un fichier PNG dans le cadre d’un challenge CTF.

@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/cybersecurity-ctf-methodology.png
   alt: "Ma méthodologie pour les write-ups CTF"
+hidden: true
 ---
 
 Un bon write-up doit permettre de comprendre le raisonnement, pas seulement de recopier une commande.

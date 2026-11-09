@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/ghost-in-the-thread.png
   alt: "Ghost in the Thread : investigation forensics"
+hidden: true
 ---
 
 ## Présentation

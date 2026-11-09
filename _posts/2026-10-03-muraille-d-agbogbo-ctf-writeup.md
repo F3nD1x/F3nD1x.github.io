@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/muraille-d-agbogbo-ctf-writeup.png
   alt: "Muraille d'Agbogbo CTF : write-up"
+hidden: true
 ---
 
 ## Introduction

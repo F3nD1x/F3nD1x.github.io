@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/sql-injection.png
   alt: "SQL Injection"
+hidden: true
 ---
 
 Introduction aux injections SQL, à leur impact et aux protections essentielles comme les requêtes préparées et la validation des entrées.

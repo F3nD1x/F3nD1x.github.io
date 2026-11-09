@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/file-inclusion.png
   alt: "Inclusion de fichiers"
+hidden: true
 ---
 
 Étude d’une vulnérabilité d’inclusion de fichiers et des contrôles de sécurité à appliquer pour empêcher la lecture de ressources non autorisées.

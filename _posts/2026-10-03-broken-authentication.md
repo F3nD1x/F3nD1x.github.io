@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/broken-authentication.png
   alt: "Broken Authentication"
+hidden: true
 ---
 
 Étude des défauts d’authentification et des pratiques à appliquer pour sécuriser les sessions, les mots de passe et les contrôles d’accès.

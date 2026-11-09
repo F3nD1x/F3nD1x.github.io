@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/transfers-desk.png
   alt: "Transfers Desk : IDOR et race condition"
+hidden: true
 ---
 
 Le challenge **Transfers Desk** repose sur plusieurs faiblesses applicatives combinées : conversion incorrecte d'identifiants UUID dans le frontend, contrôle d'accès insuffisant de type **IDOR**, puis validation incomplète des approbations.

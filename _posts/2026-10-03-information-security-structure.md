@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/information-security-structure.png
   alt: "Structure de la sécurité de l'information"
+hidden: true
 ---
 
 Notes sur les principes et la structure de la sécurité de l’information.

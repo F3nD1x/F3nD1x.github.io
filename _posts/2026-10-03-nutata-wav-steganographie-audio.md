@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/nutata-wav-steganographie-audio.png
   alt: "Nutata.wav : stéganographie sonore"
+hidden: true
 ---
 
 ## Introduction

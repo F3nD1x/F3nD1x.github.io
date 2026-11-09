@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/structure-linux.png
   alt: "Structure sur Linux"
+hidden: true
 ---
 
 Notes pratiques sur la structure d’un système Linux, les répertoires importants et les réflexes utiles en administration et en sécurité.

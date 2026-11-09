@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/rootme-wav.png
   alt: "Root-Me : analyse spectrale d'un fichier WAV"
+hidden: true
 ---
 
 Write-up du challenge Root-Me de stéganographie sonore basé sur l’analyse spectrale d’un fichier WAV.

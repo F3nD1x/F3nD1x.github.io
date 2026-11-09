@@ -8,6 +8,7 @@ image:
   alt: "Ordinateur affichant une session technique"
 layout: post
 author: josias
+hidden: true
 ---
 
 > Note : ce writeup est une trame de publication. Les flags, commandes et résultats doivent être remplacés par les éléments réellement observés pendant le challenge.

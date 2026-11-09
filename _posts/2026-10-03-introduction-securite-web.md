@@ -8,6 +8,7 @@ author: josias
 image:
   path: /assets/img/posts/introduction-securite-web.png
   alt: "Introduction à la sécurité Web"
+hidden: true
 ---
 
 Introduction aux concepts fondamentaux de la sécurité Web et aux principales familles de vulnérabilités.
