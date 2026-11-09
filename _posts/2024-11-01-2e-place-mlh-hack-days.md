@@ -8,8 +8,8 @@ author: josias
 pin: true
 description: "2ème place aux MLH Hack Days avec notre projet TAVNO."
 image:
-  path: /assets/img/posts/2e-place-mlh-hack-days.png
-  alt: "2ème place aux MLH Hack Days"
+  path: /assets/img/posts/2e-place-mlh-hack-days-photo.jpg
+  alt: "Remise des prix des MLH Hack Days"
 ---
 
 **2ème place** aux **MLH Hack Days** avec notre projet **TAVNO**.
@@ -20,9 +20,6 @@ image:
 - **Associé à :** IPNET Institute of Technology
 
 Notre projet TAVNO nous a poussés à penser de manière créative et à proposer une solution qui se démarquait parmi des concurrents solides. Cette réussite renforce ma passion et m'encourage à continuer à construire des solutions technologiques significatives.
-
-![Remise des prix](/assets/img/achievements/mlh-hack-days-remise-prix.png)
-_Remise des prix_
 
 ![Les 3 premiers](/assets/img/achievements/mlh-hack-days-3-premiers.png)
 _Les 3 premiers_
